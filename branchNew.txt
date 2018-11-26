@@ -3,3 +3,5 @@ newBrand
 Brand New
 
 Beer Brand
+
+Brands
